@@ -1,0 +1,42 @@
+STEP in Solid Edge konvertieren
+Datum: Dienstag,Januar 27,2026 07:15
+Quelldatei: C:\Users\tildu\Documents\GitHub\NWT-RobotGWagen\Aktuatoren\mg995-servo\Metal Servo Horn.step
+Autor: Unknown
+Organisation: Unknown
+Ausgangssystem: FreeCAD
+
+Hardware:
+Prozessor: AMD Ryzen 5 3600 6-Core Processor              
+Betriebssystem: Windows 11 Professional Version:24H2 Build:26100 System Type:64-bit
+Installierter Speicher: 15.92 GB
+
+Software-Informationen
+Parasolid-Version: 37.0.118
+PSBodyShop-Version: 37.0.94
+Step-Adapterversion: 15.0.142
+Solid Edge-Version: 225.00.01.004 x64
+
+Step-Importoptionen
+Facettierte Körper importieren: Ein
+Prüfkörper importieren: Aus
+Kurven importieren: Ein
+DoNotSave importieren: Ein
+Mehrere Körper als Einzelteildatei importieren: Ein
+Importoptimierung:Aus
+Flächenvernähung importieren: Ein
+Boolesche Körper importieren: Ein
+Basisformelement erstellen: Ein
+Geometrie vereinfachen: Ein
+Druckkurven importieren: Ein
+Führung importieren: C:
+Flächenvernähung importieren: Ein
+Flächen importieren: Ein
+Ausgabepfad importieren: C:\Users\tildu\Documents\GitHub\NWT-RobotGWagen\Aktuatoren\mg995-servo
+Aktivieren des standardmäßigen Ausgabepfads importieren: Ein
+PMI importieren: Aus
+Als interne Komponenten importieren: Aus
+Pfad importieren: 
+
+Übersetzen in Parasolid-Datentypen...
+Konvertierungsvorgang ist abgeschlossen
+Zur Übersetzung und Nachbearbeitung erforderte Gesamtzeit:00 : 00 : 00
