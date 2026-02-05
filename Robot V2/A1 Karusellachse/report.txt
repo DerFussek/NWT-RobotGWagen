@@ -1,0 +1,17 @@
+﻿Auszugsname: C:\Users\tildu\Documents\GitHub\NWT-RobotGWagen\Robot V2\A1 Karusellachse\report.txt
+Auszugszeit 31.01.2026 20:17:41
+Auszugsoptionen:
+    Teilnamen
+
+Auswahlsatz 1:
+    Gear01.par:1
+
+Auswahlsatz 2:
+    Gear02.par:1
+
+Kollisionen:
+    1 von 1
+    Gear01.par:1
+    Gear02.par:1
+
+    1 Kollisionen festgestellt
